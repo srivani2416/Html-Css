@@ -1,0 +1,9 @@
+/*Here button represents actions which we represent in another page/*
+<button>Hello!</button>
+
+/*'p' represnts PARAGRAPH(where we can write any number of lines) /*
+<p>This is my first paragraph.</p>
+
+/*'a' An Anchor element which helps us in opening a website within a website/* 
+<a href="https://www.youtube.com/watch?v=G3e-cpL7ofc" target="_blank">Click Link to Youtube</a>
+/*Here i have given a link of youtube for an example where we open the youtube website in our website, to open the link in another tab we should use target/*
